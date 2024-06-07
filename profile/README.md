@@ -27,7 +27,9 @@ We provide transparency-as-a-service and issue impact certificates to tokenize p
 - Contribute to our open code base (soon!)
 
 ### 👩‍💻 Useful Links
-- [https://x.com/gainforestnow](twitter)
-- [https://giveth.io/project/gainforest](giveth)
-- [gainforest.earth](gainforest.earth)
+- [main website](gainforest.earth)
+- [application](https://gainforest.app/)
+- [blog](https://gainforest.substack.com/)
+- [twitter](https://x.com/gainforestnow)
+- [donate to us through giveth](https://giveth.io/project/gainforest)
 
