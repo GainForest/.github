@@ -1,7 +1,4 @@
-<img
-  src='https://dweb.link/ipfs/bafkreihfkhenj6tpjp7kbgtwf6tdvqgbqb5qmg3wrzfvhaiu652swfuqki'
-  height='48'
-/>
+<img src="https://github.com/GainForest/.github/assets/1241240/498893b4-901d-410b-95c2-21fa9bb84805" alt="gflogo" width="100">
 
 # gainforest
 
