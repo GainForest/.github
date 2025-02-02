@@ -11,7 +11,7 @@ We provide transparency-as-a-service and issue impact certificates to tokenize p
 
 ### Repositories
 
-(ecocertain)[https://github.com/gainforest/ecocertain] - Ecocerts (environmental hypercerts) marketplace 
+[ecocertain](https://github.com/gainforest/ecocertain) - Ecocerts (environmental hypercerts) marketplace 
 
 #### Top-down monitoring
 - We use rainforest image analytics to monitor land cover changes
