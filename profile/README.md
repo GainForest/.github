@@ -12,6 +12,7 @@ We provide transparency-as-a-service and issue impact certificates to tokenize p
 ### Repositories
 
 [green globe](https://github.com/GainForest/green_globe) - Green globe, environmental data visualization platform
+
 [ecocertain](https://github.com/gainforest/ecocertain) - Ecocerts (environmental impact certificate) marketplace 
 
 #### Top-down monitoring
